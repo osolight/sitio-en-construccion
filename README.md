@@ -1,2 +1,2 @@
 # sitio-en-construccion
-Par la Creacion de Sitios en contruccion 
+Para la Creacion de Sitios en Construccion 
